@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi there, I'm @myszol321
 - 🎓 I am studying computer science for a master's degree.
-- 🌱 I’m aspiring to become Frontend Developer.
+- 🌱 I’m aspiring to be Frontend Developer.
 - 🔭 I’m currently working on Crossword Puzzle website.
 - 📫 How to reach me: aleksandra.myszka1999@gmail.com.
 
